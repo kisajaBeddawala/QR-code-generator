@@ -20,8 +20,8 @@ form label{
 form input{
     display: block;
     margin: 10px 0;
-    font-size: 20px;
-    padding: 4px;
+    font-size: 16px;
+    padding: 6px;
     border-radius: 10px;
 }
 form button{
