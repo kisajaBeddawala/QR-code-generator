@@ -36,3 +36,15 @@ form button{
 #qr-code{
     padding: 20px;
 }
+#qr-download{
+    display: none;
+    margin-top: 12px;
+    font-size: 15px;
+    position: relative;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
